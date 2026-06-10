@@ -76,12 +76,12 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-TheCoder&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er-harshit-harlalka&show_icons=true&theme=radical" height="180px" />
   <img src="https://streak-stats.demolab.com/?user=Harshit-TheCoder&theme=radical" height="180px" />
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-TheCoder)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=er-harshit-harlalka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
