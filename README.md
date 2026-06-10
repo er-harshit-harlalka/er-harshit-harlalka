@@ -77,7 +77,7 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=er-harshit-harlalka&show_icons=true&theme=radical" height="180px" />
-  <img src="https://streak-stats.demolab.com/?user=Harshit-TheCoder&theme=radical" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=er-harshit-harlalkar&theme=radical" height="180px" />
 </p>
 
 ## 🏆 GitHub Trophies
